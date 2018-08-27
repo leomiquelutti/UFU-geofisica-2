@@ -44,6 +44,10 @@ Philip Kearey, Michael Brooks and Ian Hill (2002). An introduction to geophysica
 
 Telford, W.M., Geldar, L.P., Sheriff, R.E. Applied Geophysics. 2. ed. Cambridge University Press, 1990.
 
+## Vamos fazer juntos?
+Vamos submeter um projeto para o [_Geoscientists Without Borders_](https://seg.org/About-SEG/Geoscientists-Without-Borders
+) da SEG!
+
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
