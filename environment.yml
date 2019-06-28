@@ -1,4 +1,4 @@
-name: moho
+name: geof2
 dependencies:
     - python=2.7
     - pip=19.1.1
