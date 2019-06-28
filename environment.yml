@@ -12,4 +12,4 @@ dependencies:
     - jupyter=1.0.0
     - seaborn=0.7.1
     - pip:
-        - fatiando==0.4
+        - fatiando==0.5
