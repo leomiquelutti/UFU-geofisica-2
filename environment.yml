@@ -1,4 +1,6 @@
 name: geof2
+channels:
+    - conda-forge
 dependencies:
     - python=2.7
     - pip=19.1.1
@@ -9,7 +11,7 @@ dependencies:
     - pillow=3.4.1
     - jupyter=1.0.0
     - seaborn=0.7.1
-    - numba=0.26
-    - basemap=1.0.7
+    - numba
+    - basemap
     - pip:
         - fatiando==0.5
