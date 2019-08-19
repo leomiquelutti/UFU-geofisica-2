@@ -9,7 +9,7 @@ dependencies:
     - pillow=3.4.1
     - jupyter=1.0.0
     - seaborn=0.7.1
+    - numba=0.26
+    - basemap=1.0.7
     - pip:
         - fatiando==0.5
-        - numba=0.26
-        - basemap=1.0.7
